@@ -1,0 +1,9 @@
+div {
+  background-color: rgb(146, 204, 255);
+  width: fit-content;
+  font-size: 20px;
+}
+
+div:hover {
+  color: white;
+}
